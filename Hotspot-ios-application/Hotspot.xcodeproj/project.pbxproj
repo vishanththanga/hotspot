@@ -18,6 +18,17 @@
 		5343E07621A08D1000FEAD08 /* ScutoNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5343E07521A08D1000FEAD08 /* ScutoNavigationController.swift */; };
 		5343E07821A08D1600FEAD08 /* ComingSoonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5343E07721A08D1600FEAD08 /* ComingSoonViewController.swift */; };
 		5343E07B21A08E6600FEAD08 /* HomeFlowController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5343E07A21A08E6600FEAD08 /* HomeFlowController.swift */; };
+		5343E07D21A0CDDE00FEAD08 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5343E07C21A0CDDE00FEAD08 /* HomeViewController.swift */; };
+		5343E08021A0CF0600FEAD08 /* HomeHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5343E07F21A0CF0600FEAD08 /* HomeHeaderView.swift */; };
+		5343E08E21A0F60E00FEAD08 /* HomeHotspotsCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5343E08D21A0F60E00FEAD08 /* HomeHotspotsCardView.swift */; };
+		5343E09121A0F9C600FEAD08 /* NetworksFlowController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5343E09021A0F9C600FEAD08 /* NetworksFlowController.swift */; };
+		5343E09321A0F9DA00FEAD08 /* NetworksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5343E09221A0F9DA00FEAD08 /* NetworksViewController.swift */; };
+		5343E09621A1011A00FEAD08 /* AvailableNetworksCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5343E09521A1011A00FEAD08 /* AvailableNetworksCardView.swift */; };
+		5343E09821A12BD600FEAD08 /* NetworksPaymentController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5343E09721A12BD600FEAD08 /* NetworksPaymentController.swift */; };
+		5343E09A21A12E1A00FEAD08 /* JobSelectionBackButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5343E09921A12E1A00FEAD08 /* JobSelectionBackButtonView.swift */; };
+		5343E09C21A1384B00FEAD08 /* SendIotaButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5343E09B21A1384B00FEAD08 /* SendIotaButtonView.swift */; };
+		5343E0A321A1AE9800FEAD08 /* ConfirmationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5343E0A221A1AE9800FEAD08 /* ConfirmationController.swift */; };
+		5343E0A521A1B15300FEAD08 /* ConfirmatinBackButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5343E0A421A1B15300FEAD08 /* ConfirmatinBackButtonView.swift */; };
 		53FFF69C219FE55900D48F86 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53FFF69B219FE55900D48F86 /* AppDelegate.swift */; };
 		53FFF6A3219FE55C00D48F86 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 53FFF6A2219FE55C00D48F86 /* Assets.xcassets */; };
 		53FFF6A6219FE55C00D48F86 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 53FFF6A4219FE55C00D48F86 /* LaunchScreen.storyboard */; };
@@ -36,6 +47,17 @@
 		5343E07521A08D1000FEAD08 /* ScutoNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScutoNavigationController.swift; sourceTree = "<group>"; };
 		5343E07721A08D1600FEAD08 /* ComingSoonViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ComingSoonViewController.swift; sourceTree = "<group>"; };
 		5343E07A21A08E6600FEAD08 /* HomeFlowController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeFlowController.swift; sourceTree = "<group>"; };
+		5343E07C21A0CDDE00FEAD08 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		5343E07F21A0CF0600FEAD08 /* HomeHeaderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeHeaderView.swift; sourceTree = "<group>"; };
+		5343E08D21A0F60E00FEAD08 /* HomeHotspotsCardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeHotspotsCardView.swift; sourceTree = "<group>"; };
+		5343E09021A0F9C600FEAD08 /* NetworksFlowController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworksFlowController.swift; sourceTree = "<group>"; wrapsLines = 0; };
+		5343E09221A0F9DA00FEAD08 /* NetworksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworksViewController.swift; sourceTree = "<group>"; };
+		5343E09521A1011A00FEAD08 /* AvailableNetworksCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvailableNetworksCardView.swift; sourceTree = "<group>"; };
+		5343E09721A12BD600FEAD08 /* NetworksPaymentController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworksPaymentController.swift; sourceTree = "<group>"; };
+		5343E09921A12E1A00FEAD08 /* JobSelectionBackButtonView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JobSelectionBackButtonView.swift; sourceTree = "<group>"; };
+		5343E09B21A1384B00FEAD08 /* SendIotaButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SendIotaButtonView.swift; sourceTree = "<group>"; };
+		5343E0A221A1AE9800FEAD08 /* ConfirmationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmationController.swift; sourceTree = "<group>"; };
+		5343E0A421A1B15300FEAD08 /* ConfirmatinBackButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmatinBackButtonView.swift; sourceTree = "<group>"; };
 		53FFF698219FE55900D48F86 /* Hotspot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hotspot.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		53FFF69B219FE55900D48F86 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		53FFF6A2219FE55C00D48F86 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -82,6 +104,7 @@
 				5343E07521A08D1000FEAD08 /* ScutoNavigationController.swift */,
 				5343E07721A08D1600FEAD08 /* ComingSoonViewController.swift */,
 				5343E07921A08E5500FEAD08 /* Home */,
+				5343E08F21A0F96B00FEAD08 /* Networks */,
 			);
 			path = Features;
 			sourceTree = "<group>";
@@ -125,8 +148,42 @@
 			isa = PBXGroup;
 			children = (
 				5343E07A21A08E6600FEAD08 /* HomeFlowController.swift */,
+				5343E07C21A0CDDE00FEAD08 /* HomeViewController.swift */,
+				5343E07E21A0CEF500FEAD08 /* Views */,
 			);
 			path = Home;
+			sourceTree = "<group>";
+		};
+		5343E07E21A0CEF500FEAD08 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				5343E08D21A0F60E00FEAD08 /* HomeHotspotsCardView.swift */,
+				5343E07F21A0CF0600FEAD08 /* HomeHeaderView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		5343E08F21A0F96B00FEAD08 /* Networks */ = {
+			isa = PBXGroup;
+			children = (
+				5343E09021A0F9C600FEAD08 /* NetworksFlowController.swift */,
+				5343E09221A0F9DA00FEAD08 /* NetworksViewController.swift */,
+				5343E09721A12BD600FEAD08 /* NetworksPaymentController.swift */,
+				5343E0A221A1AE9800FEAD08 /* ConfirmationController.swift */,
+				5343E09421A0FFA400FEAD08 /* Views */,
+			);
+			path = Networks;
+			sourceTree = "<group>";
+		};
+		5343E09421A0FFA400FEAD08 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				5343E09921A12E1A00FEAD08 /* JobSelectionBackButtonView.swift */,
+				5343E09521A1011A00FEAD08 /* AvailableNetworksCardView.swift */,
+				5343E09B21A1384B00FEAD08 /* SendIotaButtonView.swift */,
+				5343E0A421A1B15300FEAD08 /* ConfirmatinBackButtonView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 		53FFF68F219FE55900D48F86 = {
@@ -197,6 +254,11 @@
 				TargetAttributes = {
 					53FFF697219FE55900D48F86 = {
 						CreatedOnToolsVersion = 10.0;
+						SystemCapabilities = {
+							com.apple.WAC = {
+								enabled = 0;
+							};
+						};
 					};
 				};
 			};
@@ -283,15 +345,26 @@
 			files = (
 				5343E07B21A08E6600FEAD08 /* HomeFlowController.swift in Sources */,
 				5343E06C21A0836800FEAD08 /* UIColor+HexValue.swift in Sources */,
+				5343E08021A0CF0600FEAD08 /* HomeHeaderView.swift in Sources */,
+				5343E09321A0F9DA00FEAD08 /* NetworksViewController.swift in Sources */,
+				5343E0A521A1B15300FEAD08 /* ConfirmatinBackButtonView.swift in Sources */,
 				5343E06721A0832B00FEAD08 /* AppFlowController.swift in Sources */,
 				53FFF69C219FE55900D48F86 /* AppDelegate.swift in Sources */,
 				5343E06521A0830D00FEAD08 /* SplashViewController.swift in Sources */,
 				5343E06B21A0836800FEAD08 /* UIViewController+AddRemoveChildren.swift in Sources */,
 				5343E07621A08D1000FEAD08 /* ScutoNavigationController.swift in Sources */,
 				5343E07021A083D500FEAD08 /* HotspotDevice.swift in Sources */,
+				5343E09621A1011A00FEAD08 /* AvailableNetworksCardView.swift in Sources */,
+				5343E09121A0F9C600FEAD08 /* NetworksFlowController.swift in Sources */,
 				5343E07421A08D0300FEAD08 /* HomeTabBarController.swift in Sources */,
+				5343E0A321A1AE9800FEAD08 /* ConfirmationController.swift in Sources */,
+				5343E09C21A1384B00FEAD08 /* SendIotaButtonView.swift in Sources */,
 				5343E07821A08D1600FEAD08 /* ComingSoonViewController.swift in Sources */,
+				5343E08E21A0F60E00FEAD08 /* HomeHotspotsCardView.swift in Sources */,
 				5343E06E21A083A300FEAD08 /* UI.swift in Sources */,
+				5343E09A21A12E1A00FEAD08 /* JobSelectionBackButtonView.swift in Sources */,
+				5343E07D21A0CDDE00FEAD08 /* HomeViewController.swift in Sources */,
+				5343E09821A12BD600FEAD08 /* NetworksPaymentController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -437,7 +510,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = Hotspot.Hotspot;
+				PRODUCT_BUNDLE_IDENTIFIER = "-4744766587787";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -456,7 +529,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = Hotspot.Hotspot;
+				PRODUCT_BUNDLE_IDENTIFIER = "-4744766587787";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
